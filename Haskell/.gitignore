@@ -1,0 +1,8 @@
+# Haskell binaries and executables
+*.exe
+*.hi
+*.o
+
+# Kattis input/output
+input
+output
