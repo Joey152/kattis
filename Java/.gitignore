@@ -1,0 +1,7 @@
+.metadata/
+.recommenders/
+Kattis/.settings
+Kattis/.classpath
+Kattis/.gitignore
+Kattis/.project
+Kattis/bin
