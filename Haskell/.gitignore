@@ -2,3 +2,5 @@
 *.exe
 *.hi
 *.o
+
+/Java/.metadata/**
